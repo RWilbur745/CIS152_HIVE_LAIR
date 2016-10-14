@@ -1,0 +1,34 @@
+
+table {
+border: thin;
+border-style: double;
+border-color: lightblue; 
+
+}
+td {
+    text-align: center;
+}
+.one{
+    color: white;
+    background-color: purple;
+}
+.two{
+    color: white;
+    background-color: green;
+}
+.three{
+    color: white;
+    background-color: blue;
+}
+.four{
+    color: white;
+    background-color: red;
+}
+.seven{
+    color: goldenrod;
+    background-color: black;
+}
+.eleven{
+    color: grey;
+    background-color: mediumvioletred;
+}
